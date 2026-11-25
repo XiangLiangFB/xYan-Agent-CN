@@ -1,3 +1,22 @@
-/xYan/** -text
-xYan/xYan[[:space:]]Agent.exe filter=lfs diff=lfs merge=lfs -text
-xYan/resources/runtime/_internal/imageio_ffmpeg/binaries/ffmpeg-win-x86_64-v9.0.2.exe filter=lfs diff=lfs merge=lfs -text
+/chrome_100_percent.pak -text
+/chrome_200_percent.pak -text
+/d3dcompiler_47.dll -text
+/dxcompiler.dll -text
+/electron_wer.dll -text
+/ffmpeg.dll -text
+/icudtl.dat -text
+/LICENSE.electron.txt -text
+/LICENSES.chromium.html -text
+/locales/** -text
+/resources/** -text
+/resources.pak -text
+/snapshot_blob.bin -text
+"/Uninstall xYan Agent.exe" -text
+/v8_context_snapshot.bin -text
+/version -text
+/vk_swiftshader.dll -text
+/vk_swiftshader_icd.json -text
+/vulkan-1.dll -text
+"/xYan Agent.exe" -text
+/xYan[[:space:]]Agent.exe filter=lfs diff=lfs merge=lfs -text
+/resources/runtime/_internal/imageio_ffmpeg/binaries/ffmpeg-win-x86_64-v9.0.2.exe filter=lfs diff=lfs merge=lfs -text
