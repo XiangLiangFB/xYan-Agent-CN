@@ -1,0 +1,33 @@
+xYan Agent
+Copyright 2026 深圳市向量风暴科技有限公司
+
+The xYan Agent desktop client in this repository is licensed under the
+Apache License, Version 2.0. See the LICENSE file.
+
+Scope
+-----
+This license covers the desktop client distributed in this repository only.
+The xYan cloud service, its server software, models, accounts and billing are
+not part of the Work and are not licensed here. Use of the cloud service is
+governed by the Terms of Service and Privacy Policy:
+  https://xiangliangfb.cn/page/terms.en.html
+  https://xiangliangfb.cn/page/privacy.en.html
+
+Trademarks
+----------
+"xYan", "xYan Agent", "小颜", "向量风暴", "Vector Storm", "XiangLiangFB" and the
+related logos are trademarks of 深圳市向量风暴科技有限公司.
+As stated in Section 6 of the License, no permission is granted to use them.
+Modified versions must not be distributed under these names or logos, or in
+any way that suggests they are official releases.
+
+Official builds
+---------------
+Official builds are published only at
+  https://github.com/XiangLiangFB/xYan-Agent-CN
+  https://xiangliangfb.cn
+
+Third-party components
+----------------------
+The client bundles third-party software that remains under its own licenses.
+See resources/THIRD-PARTY-NOTICES.txt.
