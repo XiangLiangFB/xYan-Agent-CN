@@ -1,0 +1,11 @@
+{
+    "schemaVersion":  1,
+    "target":  "production",
+    "serverUrl":  "https://api.xiangliangfb.cn",
+    "dataDirectoryName":  "xYan Agent",
+    "edition":  "cn",
+    "defaultLocale":  "zh-CN",
+    "commandTrust":  {
+                         "7475fec280ca09d5":  "7475fec280ca09d597577c10c41bf68a04e6f01edb081eed299b57dfd8387c52"
+                     }
+}
