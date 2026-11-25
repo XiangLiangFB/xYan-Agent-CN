@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://xiangliangfb.cn/assets/video/xYan-breathing-type.mp4" target="_blank" rel="noopener noreferrer"><img src="https://xiangliangfb.cn/assets/images/xyan-breathing-type-cover-dim28.webp" width="880" alt="播放 xYan Agent 视频"></a>
+<img src="./xYan-breathing-type.gif" width="640" alt="xYan Agent 循环演示">
 
 
 # xYan Agent
@@ -222,7 +222,7 @@ xYan Agent 是向量风暴长期研究计划中的第一款产品。我们正在
 
 <div align="center">
 
-**由向量风暴（XiangLiangFB）在深圳开发**
+**xYan Agent 来自中国，由向量风暴（XiangLiangFB）在深圳开发**
 
 © 2026 深圳市向量风暴科技有限公司
 
