@@ -1,0 +1,17 @@
+{
+  "schema_version": 2,
+  "files": {
+    "__init__.py": "3543b4693a36a1098850b8bc928887694ed59a6deb7d3dfd0339de01f55a77b6",
+    "approval.py": "07a3a2a853d7968c1bb1b0785c4f7faceb2570aa6aef6c9de03b75186513715b",
+    "envelope.py": "5eeea8e2a11af3f11b001692d1f66ea8a89697070c9045ceb679ef67b4b0b5a2",
+    "errors.py": "23090958b6b5cb425394808296fbc132c81984d4de40e26dc126edc340d94d2b",
+    "operations.py": "362a3e4025b98c1337d91045a02e7fc2182898a8bc2a2747466762446b9b17f4",
+    "rules.py": "c6853ca104447db225a37c1456817a20c77ccbb2797c40cf690aa1eb57dfdb90",
+    "signing.py": "2a9b1756023303b4e307781f91da6daa278ee4528d8743a6c486274aba69ab4d",
+    "task_scope.py": "7d0e7f36464a94195acc3fbdd059174eadec6045be56dee8e479f837e9fca119",
+    "upload_kind.py": "a1b405816c6c170d8c24c29eda23794555f09d319902fb18678b979a581faaf1",
+    "url_authorization.py": "2c69edd3fb3b96f98040998a78b2e808dd48a0883122b3529b34f6fc9109037c",
+    "video_check.py": "60083213976a80df7fef57e6fbdad91be03d6435ff385ac8a659319a4d413138",
+    "window.py": "802745a5d861442dc993e6c6f2ade77cb168b79f77eda8c1e722eccdeea5a1d5"
+  }
+}

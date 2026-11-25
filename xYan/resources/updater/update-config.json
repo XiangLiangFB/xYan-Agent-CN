@@ -1,0 +1,7 @@
+{
+    "baseUrl":  "https://xiangliangfb.cn/updates",
+    "publicKey":  "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEADhObTNUIzWtBlJz694LBeMdqSjNoNcyjsGTfLfMsa4g=\n-----END PUBLIC KEY-----\n",
+    "channel":  "stable",
+    "publisherName":  "CN=xYan Agent Self-Signed Code Signing",
+    "publisherFingerprintSha256":  "A2B6A7D677181FB052E246D9F3109D8E98700F62A50E023C20A5D2B8AA17F8D8"
+}
